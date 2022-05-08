@@ -1,0 +1,10 @@
+Abstraction and encapsulation are concepts that complement each other but are critically different. Abstraction focuses 
+on the observable behavior of an object and hides the implementation by providing a layer over the basic functionality. 
+An abstract class is used. Encapsulation focuses upon the implementation of the behavior. Encapsulation is often achieved 
+via information hiding, which is the process of hiding aspects of the object that do not contribute to its main functionality.
+
+Sources:
+http://www.tonymarston.co.uk/php-mysql/abstraction.txt
+https://www.geeksforgeeks.org/difference-between-abstraction-and-encapsulation-in-java-with-examples/
+
+
